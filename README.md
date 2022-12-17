@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vincevdb1&count_private=true&show_icons=true&theme=github_dark)
+![](https://raw.githubusercontent.com/Vincevdb1/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 <!--
 **Vincevdb1/Vincevdb1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincevdb1&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vincevdb1&count_private=true&show_icons=true&theme=github_dark)
 -->

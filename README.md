@@ -1,11 +1,13 @@
 ### Hi there 👋
+<div align="center">
+<img src="https://wakatime.com/share/@Vincevdb1/5c262bbd-aa16-4e8f-87fc-567fab9c9c4f.svg"/>
 <a href="https://github.com/Vincevdb1/github-stats">
 <img decoding="async" loading="lazy" src="https://github.com/Vincevdb1/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img decoding="async" loading="lazy" src="https://github.com/Vincevdb1/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
+</div>
 <!--
 **Vincevdb1/Vincevdb1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img decoding="async" loading="lazy" src="https://github.com/Vincevdb1/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
